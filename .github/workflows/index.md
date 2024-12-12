@@ -22,7 +22,8 @@ My GitHub page is https://github.com/patrickverz
     Lab 8, part 2 was my favorite because of the patterns that was made by 
     loops. Its interesting to me how although it looks simple when ran, it
     is undoubtably hard to code but rewarding in a way where you can see 
-    that your code is working as intended in a graphic and visual way.
+    that your code is working as intended in a graphic and visual way. So
+    for me this is probably the most rewarding and grueling lab for me.
     
 * Lab 1 
 
